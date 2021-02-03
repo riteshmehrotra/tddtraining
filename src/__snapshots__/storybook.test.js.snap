@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Training/LikeButton Disabled 1`] = `
+<button
+  disabled={true}
+  onClick={[Function]}
+>
+  Like (0) Threshold hit
+</button>
+`;
+
+exports[`Storyshots Training/LikeButton Primary 1`] = `
+<button
+  disabled={false}
+  onClick={[Function]}
+>
+  Like (0)
+</button>
+`;
